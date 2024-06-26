@@ -95,7 +95,7 @@ bun run dev
 - `.eslintrc.cjs`: Linter configuration. Touch it, if you know, that you need to.
 - `.gitignore`: Don't forget to include your .env and the node_modules.
 - `index.html`: THe entry point to your project. Usually you leave it untouched. Sometimes you need to add meta data, but that's also coming to React.
-- `package.json`: :D
+- `package.json`: Write your scripts in here, check your dependencies (installed packages), andjust their version...
 - `package-lock.json`: Don't touch it. (same goes for pnpm-lock.yaml, bun.lockb or similar)
 - `README.md`: This is to give context about your project!
 - `__tests__`: Everybody loves writing tests.
