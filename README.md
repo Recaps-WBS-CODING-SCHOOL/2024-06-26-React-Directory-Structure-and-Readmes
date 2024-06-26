@@ -109,3 +109,6 @@ bun run dev
 - When importing, make sure `node_modules` imports are at the top, then custom files!
 - Import everything in alphabetical order!
 - Have fun!
+
+> [!NOTE]
+> This repo contains an .excalidraw file. You can upload it to excalidraw to read the slides
